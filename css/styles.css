@@ -8,6 +8,11 @@ header, footer {
     text-align: center;
 }
 
+div {
+    text-align: center;
+    padding: 2px;
+}
+
 section {
     background: white;
     border-radius: 10px;
@@ -22,6 +27,8 @@ footer {
 }
 
 
+
 #imagem {
     width: 500px;
+    color: #208da8;
 }
